@@ -1,0 +1,1 @@
+# Python-JP-JP-dictionary
